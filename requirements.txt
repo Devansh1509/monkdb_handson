@@ -1,0 +1,7 @@
+pyspark==3.4.1
+kafka-python==2.0.2
+faker==19.6.2
+python-dotenv==1.0.0
+requests==2.31.0
+monkdb==0.0.1
+pandas>=2.0.0

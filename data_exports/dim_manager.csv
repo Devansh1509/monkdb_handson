@@ -1,17 +1,17 @@
 manager_id,manager_name,branch_id,department
+M002,Anjali Mehta,B002,Engineering
+M_C2_1,Manager_C2_1,B3,Engineering
+M_C3_3,Manager_C3_3,B5,Operations
+M_C3_4,Manager_C3_4,B5,Sales
+M_C2_4,Manager_C2_4,B3,Engineering
+M003,Karan Patel,B003,Finance
+M_C1_3,Manager_C1_3,B1,Engineering
+M_C2_2,Manager_C2_2,B3,Sales
+M_C2_3,Manager_C2_3,B3,Operations
 M001,Rohit Sharma,B001,Sales
 M004,Sonal Gupta,B004,Product
-M_C2_3,Manager_C2_3,B4,Sales
-M003,Karan Patel,B003,Finance
-M_C3_1,Manager_C3_1,B5,Operations
-M_C3_3,Manager_C3_3,B5,Operations
-M_C3_2,Manager_C3_2,B5,Engineering
-M_C1_3,Manager_C1_3,B2,Support
-M_C2_2,Manager_C2_2,B3,Sales
-M_C2_4,Manager_C2_4,B3,Support
-M_C1_4,Manager_C1_4,B2,Engineering
-M_C3_4,Manager_C3_4,B5,Sales
-M_C2_1,Manager_C2_1,B3,Engineering
-M002,Anjali Mehta,B002,Engineering
-M_C1_1,Manager_C1_1,B1,Sales
-M_C1_2,Manager_C1_2,B1,Engineering
+M_C1_1,Manager_C1_1,B2,Operations
+M_C1_4,Manager_C1_4,B2,Operations
+M_C3_2,Manager_C3_2,B5,Sales
+M_C3_1,Manager_C3_1,B5,Support
+M_C1_2,Manager_C1_2,B2,Support

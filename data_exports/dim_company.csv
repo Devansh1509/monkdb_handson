@@ -1,7 +1,7 @@
 company_id,company_name,industry
-C001,Acme Corp,Retail
-C003,Innotech,Technology
-C3,HarborTech,General
 C1,AcmeCorp,General
-C002,Globex Ltd,Finance
 C2,BlueStone,General
+C002,Globex Ltd,Finance
+C001,Acme Corp,Retail
+C3,HarborTech,General
+C003,Innotech,Technology

@@ -1,10 +1,10 @@
 branch_id,branch_name,company_id,region_code
-B004,Bangalore Branch,C003,SOU
-B2,Gurgaon,C1,NCR-CP
 B003,Kolkata Branch,C002,EST
-B1,Noida,C1,NCR-CP
-B3,Mumbai,C2,NCR-CP
-B001,NCR Branch,C001,NCR
+B1,Noida,C1,NCR-DWARKA
+B004,Bangalore Branch,C003,SOU
+B5,Bengaluru,C3,NCR-CP
+B2,Gurgaon,C1,NCR-SAKET
 B002,Pune Branch,C001,WST
-B5,Bengaluru,C3,NCR-SAKET
-B4,Pune,C2,NCR-CP
+B001,NCR Branch,C001,NCR
+B3,Mumbai,C2,NCR-NOIDA
+B4,Pune,C2,NCR-SAKET
